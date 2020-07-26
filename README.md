@@ -16,11 +16,11 @@ Mongoose
 Heroku (deployment)
 
 ## App in use
-![home page](./public/images/Workout-Tracker2.png)
+![home page](./public/images/Workout-Tracker2.PNG)
 
-![excercise entry](./public/images/Workout-Tracker3.png)
+![excercise entry](./public/images/Workout-Tracker3.PNG
 
-![tracker chart](./public/images/Workout-Tracker1.png)
+![tracker chart](./public/images/Workout-Tracker1.PNG)
 
 ## Links to app
 
