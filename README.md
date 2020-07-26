@@ -22,7 +22,7 @@ Heroku (deployment)
 
 ![tracker chart](./public/images/Workout-Tracker1.png)
 
-## Link to app
+## Links to app
 
 [Heroku](https://desolate-reef-41887.herokuapp.com/)
 [Github](https://github.com/zosotherover/workout-tracker)
