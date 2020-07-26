@@ -10,21 +10,27 @@ To install the app locally run `npm install` in your terminal then seed the file
 ## Technologies Used
 
 Javascript
+
 Node.js
+
 Mongodb
+
 Mongoose
+
 Heroku (deployment)
 
 ## App in use
 ![home page](./public/images/Workout-Tracker2.PNG)
 
-![excercise entry](./public/images/Workout-Tracker3.PNG
+![excercise entry](./public/images/Workout-Tracker3.PNG)
 
 ![tracker chart](./public/images/Workout-Tracker1.PNG)
 
 ## Links to app
 
 [Heroku](https://desolate-reef-41887.herokuapp.com/)
+
+
 [Github](https://github.com/zosotherover/workout-tracker)
 
 
